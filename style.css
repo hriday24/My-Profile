@@ -1,0 +1,19 @@
+#WinnieGame{
+    height:500px;
+    width:500px;
+    border: solid;
+    border-color: darkblue;
+    padding: 8px;
+    border-width: 10px;
+    margin-top: 50px;
+    transition:transform 0.5s;
+}
+#WinnieGame:hover{
+    transform: scale(0.9);
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+#Games{
+    background-color: aquamarine;
+}
